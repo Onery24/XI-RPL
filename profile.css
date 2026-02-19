@@ -204,7 +204,6 @@ body {
     margin: 3rem;
     position: relative;
     overflow: hidden;
-    background: url(image/nofile.jpg);
     background-size: cover;
     background-position: center;
     width: 21rem;
@@ -216,7 +215,13 @@ body {
     padding: 2rem;
 }
 
-/* profile start */
+/* profile box start */
+.box {
+    bacground-image: url(image/nofile.jpg)
+}   
+/* profile box end */
+
+/* profile HP start */
 .hp:nth-child(1) {
     background-image: url(profile/aina.jpg);
 }
@@ -292,6 +297,7 @@ body {
 .hp:nth-child(25) {
     background-image: url(profile/tursina.jpg);
 }
+/* profile HP end */
 
 .box::after {
     content:'';
@@ -546,3 +552,4 @@ footer .credit a {
         width: 16.5rem;
     }
 }
+
