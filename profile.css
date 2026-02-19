@@ -216,6 +216,83 @@ body {
     padding: 2rem;
 }
 
+/* profile start */
+.hp:nth-child(1) {
+    background-image: url(profile/aina.jpg);
+}
+.hp:nth-child(2) {
+    
+}
+.hp:nth-child(3) {
+    background-image: url();
+}
+.hp:nth-child(4) {
+    background-image: url(profile/deswan.jpg);
+}
+.hp:nth-child(5) {
+    
+}
+.hp:nth-child(6) {
+    
+}
+.hp:nth-child(7) {
+    
+}
+.hp:nth-child(8) {
+    background-image: url(profile/umee.jpg);
+}
+.hp:nth-child(9) {
+    
+}
+.hp:nth-child(10) {
+    background-image: url(profile/meylani.jpg);
+}
+.hp:nth-child(11) {
+    
+}
+.hp:nth-child(12) {
+    
+}
+.hp:nth-child(13) {
+    
+}
+.hp:nth-child(14) {
+    
+}
+.hp:nth-child(15) {
+    
+}
+.hp:nth-child(16) {
+    
+}
+.hp:nth-child(17) {
+    background-image: url(profile/naura.jpg);
+}
+.hp:nth-child(18) {
+    background-image: url(profile/fatin.jpg);
+}
+.hp:nth-child(19) {
+    
+}
+.hp:nth-child(20) {
+    
+}
+.hp:nth-child(21) {
+    
+}
+.hp:nth-child(22) {
+    
+}
+.hp:nth-child(23) {
+    
+}
+.hp:nth-child(24) {
+    background-image: url(profile/syafnil.jpg);
+}
+.hp:nth-child(25) {
+    background-image: url(profile/tursina.jpg);
+}
+
 .box::after {
     content:'';
     display: block;
